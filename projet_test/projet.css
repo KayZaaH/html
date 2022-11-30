@@ -1,0 +1,33 @@
+body {
+
+    background: rgba(56, 50, 131, 1);
+    background: linear-gradient(180deg, rgba(56, 50, 131, 1) 0%, rgba(0,0,0,1) 49%, rgba(56, 50, 131, 1)100%);
+    color: white;
+}
+
+.titre, .navigation {
+    display: flex;
+}
+
+.titre img{
+    margin: 15px 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.navigation p {
+    margin: 20px;
+}
+
+.navigation img {
+    width: 50px;
+    height: 50px;
+}
+
+.presentation p {
+    font-size: 18px;
+}
+
+.presentation h2 {
+    font-size: 20px;
+}
