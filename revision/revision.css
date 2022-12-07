@@ -1,0 +1,29 @@
+div
+{
+    border: 3px solid black;
+}
+nav
+{
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 10;
+
+}
+container
+{
+    min-height: 100vh;
+}
+
+
+main {
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;}
+#container {
+    display: flex;}
+#divPartieGauche {
+    display: flex;
+    flex-direction: column;}
+#divPartieBasse {
+    display: flex;}
